@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "673991219240",
+    "firebase_url": "https://contactmanage-b17f1-default-rtdb.firebaseio.com",
+    "project_id": "contactmanage-b17f1",
+    "storage_bucket": "contactmanage-b17f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673991219240:android:7b78f7ce26cc31ca373d1d",
+        "android_client_info": {
+          "package_name": "theanh.android.quanlydanhba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673991219240-dpmink4s4s6j3vk7f4o1jq5jrdnfkul0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYLBQJ02uIL04TWQbwfn9yaKqn9Dy-UaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673991219240-dpmink4s4s6j3vk7f4o1jq5jrdnfkul0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

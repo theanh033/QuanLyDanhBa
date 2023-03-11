@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">quanlydanhba</string>
+    <string name="contact">Contacts</string>
+    <string name="recents">Recents</string>
+    <string name="keypad">Keypad</string>
+
+</resources>

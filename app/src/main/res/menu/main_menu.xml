@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_recents"
+        android:title="@string/recents"
+        android:icon="@drawable/phone_recent"/>
+
+    <item android:id="@+id/menu_contacts"
+        android:title="@string/contact"
+        android:icon="@drawable/phone_contact"/>
+
+    <item android:id="@+id/menu_keypad"
+        android:title="@string/keypad"
+        android:icon="@drawable/phone_keypad"/>
+
+</menu>

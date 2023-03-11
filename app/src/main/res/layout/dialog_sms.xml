@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#1B1A1A"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_baseline_keyboard_arrow_left_24"
+        android:padding="5dp"
+        android:text="Cancel"
+        android:textColor="@color/blue"
+        android:textSize="20dp" />
+
+    <EditText
+        android:id="@+id/message"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/border2"
+        android:gravity="start"
+        android:hint="Enter massage"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:textColorHint="#59FFFFFF"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableRight="@drawable/ic_baseline_keyboard_arrow_right_24"
+        android:gravity="right"
+        android:padding="5dp"
+        android:text="Send"
+        android:textColor="@color/blue"
+        android:textSize="20dp" />
+</LinearLayout>
